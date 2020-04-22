@@ -1,6 +1,6 @@
 
 bl_info = {
-    "name": "Speed Tools TEST",
+    "name": "Speed Tools",
     "author": "Wenxingz",
     "version": (0, 2 , 0),
     "blender": (2, 80, 0),
